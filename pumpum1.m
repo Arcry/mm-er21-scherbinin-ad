@@ -1,5 +1,5 @@
  
-param11111111111111
+param11111111111111lubhu
 [t,i1,i1]=intersect(t1,t2);
 Undefined function or variable 't1'.
  
